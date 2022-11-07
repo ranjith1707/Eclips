@@ -13,8 +13,8 @@ public class LogInPage {
 	Scanner scanner = new Scanner(System.in);
 
 	public static void main(String[] args) {
-		LogInPage loginpage = new LogInPage();
-		loginpage.view();
+		LogInPage loginpage1 = new LogInPage();
+		loginpage1.view();
 	}
 
 	void view() {
